@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Second Opinion": {
+            "applicationId": "Your keys here", 
+            "masterKey": "Your keys here"
+        }, 
+        "_default": {
+            "link": "Second Opinion"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.13"
+    }
+}
